@@ -27,6 +27,31 @@ namespace hostel_managment
             InitializeComponent();
         }
 
+        public void NavigateDashboard()
+        {
+            MainFrame.Navigate(new Dashboard());
+        }
+
+        public void NavigateMembers()
+        {
+            MainFrame.Navigate(new MembersPage());
+        }
+
+        public void NavigateAddMember()
+        {
+            MainFrame.Navigate(new AddMember());
+        }
+
+        public void NavigateFixedCost()
+        {
+            MainFrame.Navigate(new FixedCostPage());
+        }
+
+        public void NavigateDailyCost()
+        {
+            MainFrame.Navigate(new DailyCostPage());
+        }
+
         private void submit_login(object sender, RoutedEventArgs e)
         {
             string email = input_email.Text;

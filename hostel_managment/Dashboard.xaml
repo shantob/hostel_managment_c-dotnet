@@ -13,16 +13,13 @@
 
         <!-- Menu at the top -->
         <Menu HorizontalAlignment="Stretch" VerticalAlignment="Top" Background="#FFF99797">
-            <MenuItem Header="Dashboard"/>
+            <MenuItem Header="Dashboard" Click="NavigateDashboard"/>
             <MenuItem Header="Members">
-                <MenuItem Header="SubMenu"/>
-                <MenuItem Header="List Member"/>
+                <MenuItem Header="List Member" Click="NavigateMembers" />
+                <MenuItem Header="Add Member" Click="NavigateAddMember"/>
             </MenuItem>
-            <MenuItem Header="Par Days Count">
-                <MenuItem Header="Bazar"/>
-                <MenuItem Header="Mill"/>
-            </MenuItem>
-            <MenuItem Header="Fixed Cost"/>
+            <MenuItem Header="Par Days Count" Click="NavigateDailyCost" />
+            <MenuItem Header="Fixed Cost" Click="NavigateFixedCost"/>
         </Menu>
 
         <!-- DataGrid in the next row -->
@@ -38,6 +35,6 @@
                 <DataGridTextColumn Header="Date" Binding="{Binding DateTime}" Width="150"/>
             </DataGrid.Columns>
         </DataGrid>
-        <Button x:Name="button" Content="Add A New Summary" HorizontalAlignment="Left" Margin="507,1,0,0" Grid.Row="1" VerticalAlignment="Top" Width="75" Foreground="#FFFDFDFD" Background="#FFF35353" Click="add_summery_btn"/>
+        <Button x:Name="button" Content="Add A New Summary" HorizontalAlignment="Left" Margin="467,1,0,0" Grid.Row="1" VerticalAlignment="Top" Width="125" Foreground="#FFFDFDFD" Background="#FFF35353" Click="add_summery_btn"/>
     </Grid>
 </Window>
