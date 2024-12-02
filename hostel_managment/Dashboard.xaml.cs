@@ -48,13 +48,14 @@ namespace hostel_managment
 
         private void NavigateMembers(object sender, RoutedEventArgs e)
         {
-            MembersPage membersPage = new MembersPage();
-            membersPage.Show();
+            //MembersPage membersPage = new MembersPage();
+           // membersPage.Show();
         }
 
         private void NavigateAddMember(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Add Member functionality is under development.");
+            AddMember addmembersPage = new AddMember();
+            addmembersPage.Show();
         }
 
         private void NavigateDailyCost(object sender, RoutedEventArgs e)
@@ -65,8 +66,8 @@ namespace hostel_managment
 
         private void NavigateFixedCost(object sender, RoutedEventArgs e)
         {
-            FixedCostPage fixedCostPage = new FixedCostPage();
-            fixedCostPage.Show();
+            //FixedCostPage fixedCostPage = new FixedCostPage();
+            //fixedCostPage.Show();
         }
 
      

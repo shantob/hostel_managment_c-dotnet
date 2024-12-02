@@ -22,3 +22,7 @@ C:\Users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\h
 C:\Users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\AddSummaryWindow.g.cs
 C:\Users\shant\OneDrive\Documents\Visual Studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\AddMember.g.cs
 C:\Users\shant\OneDrive\Documents\Visual Studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\DailyCostPage.g.cs
+C:\Users\shant\OneDrive\Documents\Visual Studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\FixedCostPage.baml
+C:\Users\shant\OneDrive\Documents\Visual Studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\FixedCostPage.g.cs
+C:\Users\shant\OneDrive\Documents\Visual Studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\MembersPage.baml
+C:\Users\shant\OneDrive\Documents\Visual Studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\MembersPage.g.cs
