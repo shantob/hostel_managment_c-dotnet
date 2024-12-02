@@ -1,0 +1,22 @@
+c:\users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\bin\Debug\hostel_managment.exe.config
+c:\users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\bin\Debug\hostel_managment.exe
+c:\users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\bin\Debug\hostel_managment.pdb
+c:\users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\bin\Debug\MySql.Data.dll
+c:\users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\bin\Debug\MySql.Data.xml
+c:\users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\hostel_managment.csprojResolveAssemblyReference.cache
+c:\users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\Simple Styles.baml
+c:\users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\MainWindow.g.cs
+c:\users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\App.g.cs
+c:\users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\hostel_managment_MarkupCompile.cache
+c:\users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\hostel_managment_MarkupCompile.lref
+c:\users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\App.baml
+c:\users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\MainWindow.baml
+c:\users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\hostel_managment.g.resources
+c:\users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\hostel_managment.Properties.Resources.resources
+c:\users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\hostel_managment.csproj.GenerateResource.Cache
+c:\users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\hostel_managment.exe
+c:\users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\hostel_managment.pdb
+C:\Users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\Dashboard.g.cs
+C:\Users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\Dashboard.baml
+C:\Users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\AddSummaryWindow.baml
+C:\Users\shant\onedrive\documents\visual studio 2015\Projects\hostel_managment\hostel_managment\obj\Debug\AddSummaryWindow.g.cs

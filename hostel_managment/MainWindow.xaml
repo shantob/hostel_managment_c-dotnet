@@ -1,0 +1,15 @@
+﻿<Window x:Class="hostel_managment.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Background="#FF6E6262">
+        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" Navigated="MainFrame_Navigated"/>
+        <Label Content="Admin Login" Margin="174,46,192,0" FontSize="24" BorderBrush="#FFFFB9B9"/>
+        <TextBox x:Name="input_email" Margin="145,110,152,184" Background="#FFBBB8B8"/>
+        <Label Content="Email" Margin="76.541,104.463,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="16"/>
+        <Label Content="Phone" Margin="76.541,138.609,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="16"/>
+        <TextBox x:Name="input_phone" Margin="145,147,154,149" Background="#FFBBB8B8"/>
+
+        <Button x:Name="submit_btn" Content="Submit" HorizontalAlignment="Left" VerticalAlignment="Top" Width="78" Margin="287,187,0,0" Click="submit_login" Background="#FFE4CBCB" Height="31"/>
+    </Grid>
+</Window>
